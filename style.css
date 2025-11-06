@@ -1,3 +1,4 @@
+<style>
 body {
         backgraound-color: lightblue;
 }
@@ -9,9 +10,4 @@ p {
 font-family: veranda;
 font-size: 20px;
 }
-h1 {
-font-size: 50px;
-}
-h2 {
-font-size: 22px;
-}
+</style>
